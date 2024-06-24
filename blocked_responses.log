@@ -1,0 +1,2 @@
+Blocked or no response from https://instagram.com: HTTPSConnectionPool(host='instagram.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001DB2968BD90>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение'))
+Blocked or no response from https://twitter.com: HTTPSConnectionPool(host='twitter.com', port=443): Read timed out. (read timeout=3)
